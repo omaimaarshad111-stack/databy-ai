@@ -10,6 +10,29 @@ databy.ai is an AI-powered database workspace for exploring SQLite and PostgreSQ
 - **Frontend:** React, TypeScript, Vite, Tailwind CSS, React Router, Recharts, Lucide React
 - **AI orchestration:** LangGraph conditional workflow, structured Groq outputs
 
+## 📸 Screenshots
+
+### Main Dashboard
+![Main Dashboard](docs/images/main-dashboard.png)
+
+### AI Assistant
+![AI Assistant](docs/images/AI-Assistant.png)
+
+### Database Explorer
+![Database Explorer](docs/images/database-explorer.png)
+
+### SQL Runner
+![SQL Runner](docs/images/SQL-Runner.png)
+
+### Analytics Dashboard
+![Analytics Dashboard](docs/images/Analytics.png)
+
+### Saved Queries
+![Saved Queries](docs/images/Saved-Queries.png)
+
+### Successful Database Upload
+![Successful Database Upload](docs/images/successful-database-upload.png)
+
 ## Prerequisites
 
 - Python 3.11 or newer
